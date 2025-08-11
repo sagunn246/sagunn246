@@ -1,7 +1,7 @@
 # Hey 👋, I'm S4GUN
 
-🚀 A Full-Stack Developer | Class 12 Student | Tech Explorer  
-🌐 Building ideas into real-world web apps.
+🚀 A MERN-Stack Developer | Class 12 Student | Tech Explorer  
+🌐 Currently building an E-commerce website in React JS and sharpening skills in python
 
 ---
 
