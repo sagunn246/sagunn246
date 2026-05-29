@@ -1,12 +1,12 @@
-# Hey there! 👋 I'm S4GUN
+# Hey there! 👾 I'm S4GUN
 
 <div align="center">
 
-### 🚀 Full-Stack MERN Developer | 🎓 Class 12 Student | 🧠 Tech Explorer
+### ⚡ Full-Stack MERN + Next.js Developer | 🎓 Class 12 Student | 🧠 Tech Explorer
 
 🌍 Turning ideas into modern, responsive, and scalable web applications.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Full-Stack+MERN+Developer;Python+%26+Django+Enthusiast;React+%7C+Tailwind+%7C+MongoDB;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=20&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Full-Stack+MERN+Developer;Next.js+%26+React+Specialist;MongoDB+%7C+MySQL+%7C+Tailwind+CSS;Always+Building%2C+Always+Learning" />
 
 </div>
 
@@ -14,10 +14,10 @@
 
 ## 🧠 About Me
 
-- 👨‍💻 Currently Learning: `Python`, `Django`, `Django Channels`, `Docker`
+- 👨‍💻 Currently Learning: `Next.js`, `Docker`, `MySQL`
 - 🌐 Building: `Scalable Web Apps` and `Real-World Projects`
-- 📦 Projects Built: `Food-Commerce`, `Tourism Website`, `Functional Calculator`
-- 💬 Ask Me About: `React`, `MongoDB`, `Tailwind CSS`, `Git`, `REST APIs`
+- 📦 Projects Built: `Next.js OAuth App`, `File Store`, `Tourism Website`
+- 💬 Ask Me About: `React`, `Next.js`, `MongoDB`, `MySQL`, `Tailwind CSS`, `Git`, `REST APIs`
 - ⚡ Fun Fact: I turn boring UIs into sleek, responsive experiences 🔥
 - 🎯 Mission: Become a world-class full-stack developer and open-source contributor
 
@@ -27,11 +27,10 @@
 
 | 🚀 Project | 🛠️ Tech Stack | 🔗 Status |
 |----------|----------------|----------|
-| 🛒 Food-Commerce | React, Tailwind, LocalStorage | ✅ Completed |
-| 🧮 Functional Calculator | HTML, CSS, JavaScript | ✅ Completed |
+| 🔐 Next.js OAuth | Next.js, NextAuth.js, Tailwind | ✅ Completed |
+| 📁 File Store | Next.js, Node.js, MongoDB | ✅ Completed |
 | 🌍 Tourism Website | HTML, CSS, JavaScript | 🚧 In Progress |
-| 🖥️ Personal Portfolio | React, Tailwind | 🚀 Building |
-| 💬 Real-Time Chat App | Django Channels, WebSockets | 🧠 Learning Phase |
+| 🖥️ Personal Portfolio | React, Next.js, Tailwind | 🚀 Building |
 
 ---
 
@@ -39,6 +38,7 @@
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
@@ -47,11 +47,10 @@
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
@@ -70,7 +69,7 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagunn246&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sagunn246&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://streak-stats.demolab.com/?user=sagunn246&theme=tokyonight&hide_border=true&border_radius=12" />
 
 </div>
 
@@ -88,8 +87,8 @@
 
 ## 🎯 2026 Goals
 
-- 🚀 Master the complete MERN Stack
-- 🐍 Become highly proficient in Python and Django
+- 🚀 Master the complete MERN + Next.js Stack
+- 💾 Get proficient in MySQL and relational databases
 - 💬 Build a production-ready real-time chat application
 - 🐳 Learn Docker and deployment workflows
 - ☁️ Deploy projects to cloud platforms
